@@ -5,6 +5,8 @@
 </div>
 
 # magepack-sdk
+
+[![Greenkeeper badge](https://badges.greenkeeper.io/AmpersandHQ/magepack-sdk.svg?token=31f07a7899489b761680131a341e8a279440b98c8b25d8282de40e687a678c5a&ts=1501576463600)](https://greenkeeper.io/)
 npm dependencies for [magepack](https://github.com/AmpersandHQ/generator-magepack)
 
 This repo contains a central place to keep track of and update the npm dependencies for [magepack](https://github.com/AmpersandHQ/generator-magepack).
