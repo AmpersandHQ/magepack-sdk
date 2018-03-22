@@ -29,7 +29,7 @@
     "eslint": "^4.3.0",
     "eslint-loader": "^1.5.0",
     "eslint-plugin-react": "latest",
-    "html-webpack-plugin": "^2.15.0",
+    "html-webpack-plugin": "^3.0.8",
     "isomorphic-fetch": "2.2.1",
     "jest": "latest",
     "lint-staged": "^4.0.2",
