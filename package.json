@@ -33,7 +33,7 @@
     "isomorphic-fetch": "2.2.1",
     "jest": "latest",
     "lint-staged": "^4.0.2",
-    "np": "^2.16.0",
+    "np": "^3.0.1",
     "npm-install-webpack-plugin": "^4.0.0",
     "prettier": "^1.3.1",
     "prop-types": "^15.6.0",
