@@ -19,7 +19,7 @@
   "dependencies": {
     "babel-core": "^6.24.1",
     "babel-eslint": "latest",
-    "babel-loader": "^7.0.0",
+    "babel-loader": "^8.0.5",
     "babel-plugin-transform-class-properties": "^6.24.1",
     "babel-plugin-transform-es2015-destructuring": "^6.23.0",
     "babel-plugin-transform-object-rest-spread": "^6.23.0",
