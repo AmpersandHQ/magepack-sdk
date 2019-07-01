@@ -46,7 +46,7 @@
         "react-test-renderer": "^16.1.0",
         "redux": "^3.5.2",
         "redux-thunk": "latest",
-        "webpack": "^3.4.1",
+        "webpack": "^4.35.2",
         "webpack-dashboard": "3.0.7",
         "webpack-dev-server": "^2.4.5"
     }
