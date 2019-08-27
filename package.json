@@ -47,7 +47,7 @@
         "redux": "^3.5.2",
         "redux-thunk": "latest",
         "webpack": "^3.4.1",
-        "webpack-dashboard": "3.0.7",
+        "webpack-dashboard": "3.1.0",
         "webpack-dev-server": "^2.4.5"
     }
 }
